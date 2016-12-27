@@ -1,0 +1,1 @@
+An application that will be able to translate a markup to HTML with CRUD, authentication and sharing to other users feature using Meteor and React.
